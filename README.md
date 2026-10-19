@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/nexus-banner.svg" width="100%" alt="Nexus Solutions — independent software engineering" />
+  <img src="/assets/nexus-banner.svg" width="100%" alt="Nexus Solutions — independent software engineering" />
 
   <h3>Building connected software for a smarter future.</h3>
   <p>Independent software projects focused on productivity, verifiable planning and thoughtful developer experiences.</p>
