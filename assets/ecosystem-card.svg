@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-label="Abstract illustration of the Nexus Ecosystem local-first workspace">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E1429"/><stop offset=".58" stop-color="#15253D"/><stop offset="1" stop-color="#11172E"/></linearGradient>
+  <radialGradient id="glow" cx="68%" cy="49%" r="62%"><stop stop-color="#40C8E7" stop-opacity=".18"/><stop offset="1" stop-color="#40C8E7" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67E0EF"/><stop offset="1" stop-color="#8C8DFF"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="21"/></filter>
+</defs>
+<rect width="960" height="500" rx="27" fill="url(#bg)"/>
+<rect width="960" height="500" rx="27" fill="url(#glow)"/>
+<rect x="1" y="1" width="958" height="498" rx="26" fill="none" stroke="#7A91B5" stroke-opacity=".27"/>
+<circle cx="344.9" cy="116.1" r="1.1" fill="#CDD8FF" opacity="0.24"/>
+<circle cx="869.9" cy="231.8" r="1.45" fill="#CDD8FF" opacity="0.25"/>
+<circle cx="214.1" cy="362.7" r="0.6" fill="#CDD8FF" opacity="0.18"/>
+<circle cx="296.4" cy="427.6" r="1.45" fill="#CDD8FF" opacity="0.11"/>
+<circle cx="506.9" cy="406.8" r="1.45" fill="#CDD8FF" opacity="0.16"/>
+<circle cx="332.7" cy="131.3" r="1.45" fill="#CDD8FF" opacity="0.23"/>
+<circle cx="595.9" cy="473.6" r="1.45" fill="#CDD8FF" opacity="0.21"/>
+<circle cx="602.4" cy="268.6" r="1.1" fill="#CDD8FF" opacity="0.11"/>
+<circle cx="383.1" cy="29.2" r="1.45" fill="#CDD8FF" opacity="0.22"/>
+<circle cx="858.6" cy="417.1" r="1.45" fill="#CDD8FF" opacity="0.11"/>
+<circle cx="327.6" cy="79.5" r="1.45" fill="#CDD8FF" opacity="0.22"/>
+<circle cx="767.3" cy="99.9" r="0.85" fill="#CDD8FF" opacity="0.27"/>
+<circle cx="772.8" cy="444.6" r="1.1" fill="#CDD8FF" opacity="0.15"/>
+<circle cx="290.0" cy="416.0" r="0.85" fill="#CDD8FF" opacity="0.15"/>
+<circle cx="133.9" cy="335.0" r="1.1" fill="#CDD8FF" opacity="0.27"/>
+<circle cx="932.6" cy="470.0" r="1.1" fill="#CDD8FF" opacity="0.13"/>
+<circle cx="75.4" cy="18.2" r="0.85" fill="#CDD8FF" opacity="0.22"/>
+<circle cx="566.6" cy="333.0" r="1.45" fill="#CDD8FF" opacity="0.12"/>
+<circle cx="313.8" cy="90.4" r="0.85" fill="#CDD8FF" opacity="0.25"/>
+<circle cx="110.8" cy="432.6" r="1.1" fill="#CDD8FF" opacity="0.15"/>
+<circle cx="186.7" cy="61.3" r="1.45" fill="#CDD8FF" opacity="0.25"/>
+<circle cx="170.3" cy="332.3" r="0.6" fill="#CDD8FF" opacity="0.18"/>
+<circle cx="244.6" cy="262.4" r="1.1" fill="#CDD8FF" opacity="0.21"/>
+<circle cx="64.0" cy="474.7" r="1.1" fill="#CDD8FF" opacity="0.24"/>
+<circle cx="493.4" cy="96.8" r="0.6" fill="#CDD8FF" opacity="0.24"/>
+<circle cx="256.2" cy="119.1" r="1.45" fill="#CDD8FF" opacity="0.14"/>
+<circle cx="858.1" cy="61.3" r="1.1" fill="#CDD8FF" opacity="0.14"/>
+<circle cx="741.9" cy="119.2" r="1.1" fill="#CDD8FF" opacity="0.22"/>
+<circle cx="668.6" cy="72.8" r="0.85" fill="#CDD8FF" opacity="0.16"/>
+<circle cx="882.6" cy="241.4" r="1.45" fill="#CDD8FF" opacity="0.2"/>
+<circle cx="146.5" cy="171.2" r="1.1" fill="#CDD8FF" opacity="0.19"/>
+<circle cx="451.3" cy="143.5" r="1.45" fill="#CDD8FF" opacity="0.14"/>
+<circle cx="824.4" cy="286.7" r="0.85" fill="#CDD8FF" opacity="0.21"/>
+<circle cx="499.8" cy="100.1" r="0.85" fill="#CDD8FF" opacity="0.14"/>
+<circle cx="227.1" cy="37.1" r="1.45" fill="#CDD8FF" opacity="0.13"/>
+<circle cx="480.5" cy="93.2" r="1.1" fill="#CDD8FF" opacity="0.18"/>
+<circle cx="790.6" cy="232.0" r="0.6" fill="#CDD8FF" opacity="0.16"/>
+<circle cx="883.1" cy="346.8" r="1.45" fill="#CDD8FF" opacity="0.18"/>
+<circle cx="645.5" cy="79.7" r="1.1" fill="#CDD8FF" opacity="0.23"/>
+<circle cx="370.2" cy="98.2" r="0.6" fill="#CDD8FF" opacity="0.17"/>
+<circle cx="887.2" cy="153.3" r="1.1" fill="#CDD8FF" opacity="0.14"/>
+<circle cx="548.2" cy="266.8" r="0.85" fill="#CDD8FF" opacity="0.16"/>
+<circle cx="711.3" cy="35.3" r="1.45" fill="#CDD8FF" opacity="0.12"/>
+<circle cx="774.0" cy="441.2" r="0.85" fill="#CDD8FF" opacity="0.19"/>
+<circle cx="421.8" cy="245.1" r="0.6" fill="#CDD8FF" opacity="0.21"/>
+<circle cx="815.9" cy="187.7" r="1.1" fill="#CDD8FF" opacity="0.12"/>
+<circle cx="738.1" cy="344.1" r="0.85" fill="#CDD8FF" opacity="0.12"/>
+<circle cx="380.3" cy="356.9" r="0.6" fill="#CDD8FF" opacity="0.24"/>
+<circle cx="810" cy="247" r="223" fill="none" stroke="#7DE8F3" stroke-opacity=".13" stroke-width="1.5"/>
+<circle cx="810" cy="247" r="178" fill="none" stroke="#A995F4" stroke-opacity=".13" stroke-width="1"/>
+<path d="M635 0C570 120 545 195 597 275S788 410 920 500" fill="none" stroke="#6DDAEE" stroke-opacity=".09" stroke-width="2"/>
+<rect x="48" y="42" width="94" height="28" rx="14" fill="#173C4B" stroke="#3D8EA7" stroke-opacity=".65"/>
+<text x="95" y="60" fill="#8DE3F0" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1" text-anchor="middle">01 / APP</text>
+<text x="48" y="139" fill="#EEF5FF" font-size="50" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.1">ECOSYSTEM</text>
+<text x="50" y="176" fill="#AFC3D9" font-size="23" font-family="Arial,Helvetica,sans-serif">A connected local-first workspace</text>
+<rect x="50" y="214" width="5" height="64" rx="2.5" fill="url(#line)"/>
+<text x="68" y="236" fill="#DCEBFB" font-family="Arial,Helvetica,sans-serif" font-size="18">Notes and knowledge</text>
+<text x="68" y="262" fill="#DCEBFB" font-family="Arial,Helvetica,sans-serif" font-size="18">Tasks and planning</text>
+<text x="50" y="440" fill="#90B9CD" font-size="14" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.9">PRODUCTIVITY  /  WRITING  /  DEVELOPMENT</text>
+
+<!-- Simplified, clearly illustrative workspace UI -->
+<rect x="427" y="116" width="494" height="298" rx="21" fill="#080F22" fill-opacity=".55" stroke="#81DCEB" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x="427" y="116" width="494" height="43" rx="20" fill="#24364D" fill-opacity=".82"/>
+<rect x="427" y="143" width="494" height="16" fill="#24364D" fill-opacity=".82"/>
+<circle cx="452" cy="137" r="5" fill="#F78B9E" opacity=".8"/><circle cx="470" cy="137" r="5" fill="#F1C27D" opacity=".8"/><circle cx="488" cy="137" r="5" fill="#78DEC7" opacity=".8"/>
+<text x="678" y="142" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#AFC5DF" text-anchor="middle">NEXUS WORKSPACE</text>
+<path d="M545 159 V414" stroke="#6483A4" stroke-opacity=".42"/>
+<g fill="#C2D0EE" font-family="Arial,Helvetica,sans-serif" font-size="13">
+ <text x="445" y="191">WORKSPACE</text><text x="452" y="234">Overview</text><text x="452" y="268">Notes</text><text x="452" y="302">Tasks</text><text x="452" y="336">Planning</text>
+</g>
+<g fill="#8BE1EE"><rect x="440" y="247" width="4" height="25" rx="2"/><circle cx="445" cy="230" r="4"/></g>
+<rect x="565" y="180" width="209" height="123" rx="13" fill="#223751" fill-opacity=".68" stroke="#94A8D0" stroke-opacity=".24"/>
+<text x="581" y="205" fill="#E4EDFB" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="15">Quick notes</text>
+<rect x="581" y="224" width="142" height="6" rx="3" fill="#95A9C6" opacity=".68"/>
+<rect x="581" y="240" width="174" height="6" rx="3" fill="#95A9C6" opacity=".33"/>
+<rect x="581" y="256" width="121" height="6" rx="3" fill="#95A9C6" opacity=".33"/>
+<rect x="581" y="277" width="68" height="14" rx="7" fill="#2A768B"/>
+<rect x="788" y="180" width="115" height="123" rx="13" fill="#28314E" fill-opacity=".68" stroke="#94A8D0" stroke-opacity=".24"/>
+<text x="804" y="205" fill="#E4EDFB" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="15">Today</text>
+<circle cx="807" cy="234" r="6" stroke="#69DBED" stroke-width="2" fill="none"/><rect x="822" y="231" width="55" height="6" rx="3" fill="#96ACC9" opacity=".58"/>
+<circle cx="807" cy="260" r="6" fill="#6DDBC9"/><path d="m804 259 2 2 5-6" fill="none" stroke="#122D35" stroke-width="1.5"/>
+<rect x="822" y="257" width="66" height="6" rx="3" fill="#96ACC9" opacity=".47"/>
+<rect x="565" y="315" width="338" height="80" rx="13" fill="#253451" fill-opacity=".72" stroke="#94A8D0" stroke-opacity=".24"/>
+<text x="582" y="336" fill="#E4EDFB" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14">Planning overview</text>
+<path d="M583 368 H885" stroke="#B1BDD3" stroke-opacity=".35" stroke-width="2"/>
+<g fill="#6CD5E9"><rect x="609" y="354" width="52" height="26" rx="8" opacity=".65"/><rect x="710" y="354" width="74" height="26" rx="8" opacity=".88"/></g>
+<rect x="807" y="354" width="47" height="26" rx="8" fill="#A99DF9" opacity=".8"/>
+<rect x="686" y="354" width="13" height="26" rx="6" fill="#334660" stroke="#97A9C9" stroke-opacity=".5"/>
+<text x="906" y="478" fill="#8195B3" font-size="11" text-anchor="end" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.3">CONCEPT ILLUSTRATION</text>
+</svg>
