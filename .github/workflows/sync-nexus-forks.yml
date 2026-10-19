@@ -1,0 +1,42 @@
+name: Sync Nexus forks
+
+on:
+  schedule:
+    # Every six hours (UTC), away from the top of the hour.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+# The repository's own GITHUB_TOKEN does not need write access.
+# The narrowly scoped personal access token below writes to the two forks.
+permissions:
+  contents: read
+
+concurrency:
+  group: nexus-fork-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Sync ${{ matrix.repo }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        repo:
+          - Nexus-Ecosystem
+          - Nexus-Cerebri
+
+    steps:
+      - name: Sync main from original repository (fast-forward only)
+        env:
+          GH_TOKEN: ${{ secrets.NEXUS_FORK_SYNC_TOKEN }}
+          REPO: ${{ matrix.repo }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_TOKEN}" ]; then
+            echo 'Missing repository secret NEXUS_FORK_SYNC_TOKEN' >&2
+            exit 1
+          fi
+          gh repo sync "nexus-solutions0/${REPO}" \
+            --source "YoungJibbit95/${REPO}" \
+            --branch main
