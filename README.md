@@ -13,7 +13,7 @@
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="#engineering-principles"><strong>Our Approach</strong></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="[(https://nexus-solutions0.github.io]"><strong>Nexus Solutions Website</strong></a>
+    <a href="https://nexus-solutions0.github.io"><strong>Nexus Solutions Website</strong></a>
   </p>
 
   <sub>Independently developed · Open-source where appropriate · Honest about what's shipping</sub>
